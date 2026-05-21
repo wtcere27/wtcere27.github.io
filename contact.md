@@ -10,6 +10,4 @@ Feel free to reach out regarding projects, collaboration opportunities, or profe
 
 ---
 
-## Email
-
 wtcere27@colby.edu
