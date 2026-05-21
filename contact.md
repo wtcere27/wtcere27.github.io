@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /Contact/
+permalink: /contact/
 ---
 
 Feel free to reach out regarding projects, collaboration opportunities, or professional connections.
