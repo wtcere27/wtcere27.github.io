@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-#### Project 1
+### Project 1
 Description of your project.
 
 [View on GitHub](https://github.com/yourusername/project)
