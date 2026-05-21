@@ -8,7 +8,7 @@ permalink: /resume/
 
 You can download a PDF version of my resume below.
 
-[Download Resume](assets/resume.pdf)
+[Download Resume](Files Folder/resume.pdf)
 
 ---
 
