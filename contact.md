@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+permalink: /resume/
 ---
 
 Feel free to reach out regarding projects, collaboration opportunities, or professional connections.
