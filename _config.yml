@@ -1,5 +1,6 @@
 title: "William Cerepak"
 theme: minima
+description: "Personal Portfolio Website"
 
 header_pages:
   - about.md
