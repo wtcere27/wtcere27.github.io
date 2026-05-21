@@ -11,5 +11,5 @@ Description of your project.
 
 ---
 
-#### Project 2
+### Project 2
 Another project description.
