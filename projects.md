@@ -4,13 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-### Project 1
+### Machine Learning Capstone
 Description of your project.
 
-[Download Resume](Assets/resume.pdf)
-[Download Resume](Assets/resume.pdf)
+[Download Report PDF](Assets/SC324_Capstone_Report.pdf)
 
-[View on GitHub](https://github.com/yourusername/project)
+[Download Code HTML](Assets/SC324_Capstone_Code.html)
 
 ---
 
