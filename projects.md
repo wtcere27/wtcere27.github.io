@@ -16,7 +16,7 @@ Please email me if you are interested in seeing the R code used for this project
 ### Vita Coco Stock Pitch (April 2026)
 As an active member of the Colby Student Investment Association, I led a team including myself and five first-year students in a stock pitch during the spring semester. We chose to pitch The Vita Coco Company (COCO) as a stock the club should buy and include in its active investment portfolio. The pitch was successful and the stock price increased by an astonishing 66% over the course of one month after our presentation. A PDF of our slide presentation can be found below:
 
-[Download Report PDF](Assets/Vita_Coco_pitch.pdf)
+[Download Presentation PDF](Assets/Vita_Coco_pitch.pdf)
 
 
 
