@@ -8,7 +8,8 @@ permalink: /projects/
 Description of your project.
 
 [Download Report PDF](Assets/SC324_Capstone_Report.pdf)
-Please email me if you would like the code used for this project.
+
+Please email me if you are interested in the code used for this project.
 
 ---
 
