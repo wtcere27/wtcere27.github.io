@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ### Machine Learning Capstone
-Description of your project.
+This capstone project was completed when I took the course SC324 Statistical Machine Learning at Colby College. Through this project, I was able to apply key concepts and machine learning techniques learned throughout the course in a real world setting working with real data from the US Forest Service. The objective of this project was to predict a chosen response variable from the US Forest Service dataset by building and benchmarking three highly differentiated machine learning models.
 
 [Download Report PDF](Assets/SC324_Capstone_Report.pdf)
 
