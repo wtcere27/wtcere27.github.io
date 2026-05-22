@@ -23,7 +23,7 @@ As an active member of the Colby Student Investment Association, I led a team in
 ### Econometrics Sports Economics Capstone (May 2026)
 During my course in Econometrics at Colby College, I led the Sports Economics Team, working with two other students on a capstone project applying econometric methods learned from the course to study the how winning during the NFL regular season affects the enterprise value of an NFL franchise. The project required my team to search for publicly available data and create our own original panel dataset. After creating our dataset, we used R coding software to fit econometric models to predict for franchise enterprise value using regular season team winning percentage while controlling for other factor variables. The final deliverables included a presentation to the class and paper report about our topic, research process, and findings/results. PDF files of the presentation and paper can be found below:
 
-[Download Presentation PDF](Assets/EC325_Capstone_Presentation.pdf)
+[Download Presentation PDF](Assets/EC325_Capstone_Presentation.pdf.zip)
 
 [Download Paper Report PDF](Assets/EC325_Capstone_Paper.pdf)
 
