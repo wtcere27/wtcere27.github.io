@@ -13,5 +13,5 @@ Please email me if you are interested in seeing the R code used for this project
 
 ---
 
-### Project 2
-Another project description.
+### Vita Coco Stock Pitch
+In April 202
