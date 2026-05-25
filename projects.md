@@ -55,3 +55,25 @@ By being at a liberal arts school, I took an Introduction to Design course in my
 
 ---
 
+### Statistical Modeling Course Case Studies (September 2025 - December 2025)
+By taking a Statistical Modeling course, I learned how to use advanced data cleaning, descriptive
+analyses, and data visualization to build, compare, and test non-linear and linear regression
+models. As part of the course, I collaborated with a partner for each of three assigned case
+study regression analysis projects. In each project, we were provided with a dataset
+accompanied with real world context about the goals of what our statistical analysis and
+modeling should achieve, simulating a workplace environment as being part of a team working
+on a project. The goal of each project was to clean the dataset given, then use data analysis to
+fit numerous versions of potential regression models. The models are compared using tests,
+performance metrics, and diagnostic plots, then the best fit model is chosen. Finally, a
+professional statistical paper report is written including an introduction, analyses, and
+discussion of results. This experience grew my skills in collaboration, data analysis, and ability to
+put together professional statistical reports in a workplace-like environment. PDF files of the
+reports of the three projects are attached below.
+
+[Download Case Study Report 1 PDF](
+
+[Download Case Study Report 2 PDF](
+
+[Download Case Study Report 3 PDF](
+
+
