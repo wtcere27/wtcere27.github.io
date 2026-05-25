@@ -7,7 +7,7 @@ permalink: /projects/
 ### Colby Formula Electric Investor Pitch Deck (April 2026)
 As a junior at Colby, I collaborated with two other students to found and grow Colby Formula Electric from ground zero. Colby Formula Electric is the fastest-growing student program at Colby and will be the face of the school’s foremost $500 million investment into the applied sciences and STEM. Colby Formula Electric is an interdisciplinary team of incredibly driven, intelligent students building an all-electric, formula-style race car from scratch to compete in the upcoming Formula SAE competitions. Our goal is to serve as a hands-on vehicle for innovation as Colby rapidly expands its footprint in the applied sciences.
 
-[Download Colby Formula Electric Pitch Deck PDF](Assets/CFE_Deck.zip)
+* [Download Colby Formula Electric Pitch Deck PDF](https://github.com/wtcere27/wtcere27.github.io/releases/download/CFE_Deck/CFE_Deck.pdf)
 
 ### Machine Learning Capstone (May 2026)
 This capstone project was completed when I took the course SC324 Statistical Machine Learning at Colby College. Through this project, I was able to apply key concepts and machine learning techniques learned throughout the course in a real world setting working with real data from the US Forest Service. The objective of this project was to predict a chosen response variable from the US Forest Service dataset by building and benchmarking three highly differentiated machine learning models. The project was completed using R coding software. The written final report was done in Microsoft Word and a PDF of it can be accessed below:
