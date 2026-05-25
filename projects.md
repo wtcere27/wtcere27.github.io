@@ -30,3 +30,5 @@ During my course in Econometrics at Colby College, I led the Sports Economics Te
 Please email me if you are interested in seeing the R code used for this project.
 
 ---
+
+### Colby Formula Electric Investor Pitch Deck (April 2026)
