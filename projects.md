@@ -70,7 +70,7 @@ discussion of results. This experience grew my skills in collaboration, data ana
 put together professional statistical reports in a workplace-like environment. PDF files of the
 reports of the three projects are attached below.
 
-[Download Case Study Report 1 PDF](https://github.com/wtcere27/wtcere27.github.io/releases/download/SC321_Case_Study_3/SC321.Case.Study.1.pdf)
+[Download Case Study Report 1 PDF](https://github.com/wtcere27/wtcere27.github.io/releases/download/SC321_Case_Study_1/SC321.Case.Study.1.pdf)
 
 [Download Case Study Report 2 PDF](https://github.com/wtcere27/wtcere27.github.io/releases/download/SC321_Case_Study_3/SC321.Case.Study.2.pdf)
 
