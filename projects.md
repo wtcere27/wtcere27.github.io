@@ -42,4 +42,9 @@ During my course in Econometrics at Colby College, I led the Sports Economics Te
 
 ---
 
+### Inference Techniques for Applied Microeconomic Research Capstone Project (January 2026)
+During my January term in my junior year at Colby, I took the course Causal Inference Techniques for Applied Microeconomic Research. In the course, I learned how to read and analyze existing published econometric literature which used econometric methods to study real world economic topics. At the end of the course, I was able to apply everything I learned to study a topic I was interested in. Given time constraints of the course, I was unable to carry out my study, but I gained extensive experience learning how to research a topic and write a professional econometrics research paper about how I would approach the process of carrying out the study. This included reading related existing literature, writing about the data that would be used, and the potential econometric methods that would be used. 
+The most important skills I learned from taking the course is how to use Stata and LaTeX coding software to produce a professional final research paper in econometrics. The PDF of my final paper for the course produced using LaTeX and Stata code can be seen below.
+
+
 
