@@ -53,7 +53,7 @@ The most important skills I learned from taking the course is how to use Stata a
 ### Gordon Arts Center Architectural Model (September 2024 - May 2025)
 By being at a liberal arts school, I took an Introduction to Design course in my first year at Colby. In this course, I learned about the design process and gained extensive experience using Vectorworks 3D CAD software for architectural modeling. After taking the course, I reached out to the professor to see if he would need a teaching assistant for the following semester to help students. He instead offered me the opportunity to work for the Performance Department on an independent project. The goal of the project was to create a full-scale replica architectural model of over 6000 square feet of interior space inside Colby’s new Gordon Center for Performing Arts from the ground up. The project required me to think critically and be incredibly organized, precise, and detail-oriented. I spent countless hours on-site recording measurements for every dimension of the space. Then, beginning from the floor plan, I built the model in Vectorworks using the exact precise measurements. Feel free to view some photos of my model in the attached PDF. 
 
-[Download Arts Center Model Photos PDF](Assets/Gordon_Prof_Photos.pdf)
+[Download Arts Center Model Photos PDF](https://github.com/wtcere27/wtcere27.github.io/releases/download/Gordon_Proj_Photos/Gordon.Proj.Photos.pdf)
 
 ---
 
