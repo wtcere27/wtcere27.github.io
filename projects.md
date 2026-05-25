@@ -72,7 +72,7 @@ reports of the three projects are attached below.
 
 [Download Case Study Report 1 PDF](https://github.com/wtcere27/wtcere27.github.io/releases/download/SC321_Case_Study_1/SC321.Case.Study.1.pdf)
 
-[Download Case Study Report 2 PDF](https://github.com/wtcere27/wtcere27.github.io/releases/download/SC321_Case_Study_3/SC321.Case.Study.2.pdf)
+[Download Case Study Report 2 PDF](https://github.com/wtcere27/wtcere27.github.io/releases/download/SC321_Case_Study_2/SC321.Case.Study.2.pdf)
 
 [Download Case Study Report 3 PDF](https://github.com/wtcere27/wtcere27.github.io/releases/download/SC321_Case_Study_3/SC321.Case.Study.3.pdf)
 
