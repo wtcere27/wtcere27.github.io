@@ -5,7 +5,9 @@ permalink: /projects/
 ---
 
 ### Colby Formula Electric Investor Pitch Deck (April 2026)
-As a junior at Colby, I collaborated with two other students to found and grow Colby Formula Electric from ground zero. Colby Formula Electric is the fastest-growing student program at Colby and will be the face of the school’s foremost $500 million investment into the applied sciences and STEM. Colby Formula Electric is an interdisciplinary team of incredibly driven, intelligent students building an all-electric, formula-style race car from scratch to compete in the upcoming Formula SAE competitions. Our goal is to serve as a hands-on vehicle for innovation as Colby rapidly expands its footprint in the applied sciences.
+As a junior at Colby, I collaborated with two other students to found and grow Colby Formula Electric from ground zero. Colby Formula Electric is the fastest-growing student program at Colby and will be the face of the school’s foremost $500 million investment into the applied sciences and STEM. Colby Formula Electric is an interdisciplinary team of incredibly driven, intelligent students building an all-electric, formula-style race car from scratch to compete in the upcoming Formula SAE competitions. Our goal is to serve as a hands-on vehicle for innovation as Colby rapidly expands its footprint in the applied sciences. 
+
+Please view the PDF of our pitch deck for more details:
 
 [Download Colby Formula Electric Pitch Deck PDF](https://github.com/wtcere27/wtcere27.github.io/releases/download/CFE_Deck/CFE_Deck.pdf)
 
