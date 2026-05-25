@@ -18,7 +18,7 @@ This capstone project was completed when I took the course SC324 Statistical Mac
 
 [Download Report PDF](Assets/SC324_Capstone_Report.pdf)
 
-[Download R Code HTML](https://github.com/wtcere27/wtcere27.github.io/releases/download/SC324_Capstone_Code/SC324.Capstone.Code.pdf)
+[Download R Code HTML](https://github.com/wtcere27/wtcere27.github.io/releases/download/SC324_Capstone_Code_HTML/SC324.Capstone.Code.html)
 
 Please email me if you are interested in seeing the R code used for this project.
 
