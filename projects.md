@@ -38,6 +38,8 @@ During my course in Econometrics at Colby College, I led the Sports Economics Te
 
 [Download Paper Report PDF](Assets/EC325_Capstone_Paper.pdf)
 
-Please email me if you are interested in seeing the R code used for this project.
+[Download R Code PDF](https://github.com/wtcere27/wtcere27.github.io/releases/download/EC325_Capstone_Code_PDF/EC325-Project.R.Code.pdf)
 
 ---
+
+
